@@ -1,4 +1,4 @@
-# Free /Libre, and Open Source Software (FOSS)
+# Free/Libre, and Open Source Software (FOSS)
 
 Students learn principles, practices, and economic underpinnings of free/libre, and open source software.
 
